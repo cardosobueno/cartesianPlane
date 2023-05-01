@@ -37,7 +37,10 @@ class planoCartesiano{
             {
                 for(int j = -6; j < 7; j++)
                 {
-                    if(i == 0 && j == 0)
+                    if(i == y && j == x)
+                    {
+                        Console.Write("o");
+                    }else if(i == 0 && j == 0)
                     {
                         Console.Write("+");
                     }else if (i == 0)
@@ -46,9 +49,6 @@ class planoCartesiano{
                     }else if(j == 0)
                     {
                         Console.Write("|");
-                    }else if(i == y && j == x)
-                    {
-                        Console.Write("o");
                     }else
                     {
                          Console.Write(" ");

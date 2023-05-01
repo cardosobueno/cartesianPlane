@@ -1,0 +1,15 @@
+E:\UDEMY\C#2023\ex01\bin\Debug\net6.0\ex01.exe
+E:\UDEMY\C#2023\ex01\bin\Debug\net6.0\ex01.deps.json
+E:\UDEMY\C#2023\ex01\bin\Debug\net6.0\ex01.runtimeconfig.json
+E:\UDEMY\C#2023\ex01\bin\Debug\net6.0\ex01.dll
+E:\UDEMY\C#2023\ex01\bin\Debug\net6.0\ex01.pdb
+E:\UDEMY\C#2023\ex01\obj\Debug\net6.0\ex01.csproj.AssemblyReference.cache
+E:\UDEMY\C#2023\ex01\obj\Debug\net6.0\ex01.GeneratedMSBuildEditorConfig.editorconfig
+E:\UDEMY\C#2023\ex01\obj\Debug\net6.0\ex01.AssemblyInfoInputs.cache
+E:\UDEMY\C#2023\ex01\obj\Debug\net6.0\ex01.AssemblyInfo.cs
+E:\UDEMY\C#2023\ex01\obj\Debug\net6.0\ex01.csproj.CoreCompileInputs.cache
+E:\UDEMY\C#2023\ex01\obj\Debug\net6.0\ex01.dll
+E:\UDEMY\C#2023\ex01\obj\Debug\net6.0\refint\ex01.dll
+E:\UDEMY\C#2023\ex01\obj\Debug\net6.0\ex01.pdb
+E:\UDEMY\C#2023\ex01\obj\Debug\net6.0\ex01.genruntimeconfig.cache
+E:\UDEMY\C#2023\ex01\obj\Debug\net6.0\ref\ex01.dll
